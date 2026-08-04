@@ -17,7 +17,7 @@ This is CS50x, Harvard University's introduction to the intellectual enterprises
 Abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. 
 
 ## Languages
-Scratch, C, Python, SQL, JavaScript, CSS, and HTML
+C, Python, SQL, JavaScript, CSS, and HTML
 
 ## Objectives
 * A broad and robust understanding of computer science and programming
@@ -26,7 +26,7 @@ Scratch, C, Python, SQL, JavaScript, CSS, and HTML
 
 * Concepts like abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development
 
-* Familiarity with a number of languages, including Scratch, C, Python, SQL, and JavaScript plus CSS and HTML
+* Familiarity with a number of languages, including C, Python, SQL, and JavaScript plus CSS and HTML
 
 * How to engage with a vibrant community of like-minded learners from all levels of experience
 
@@ -38,12 +38,15 @@ Scratch, C, Python, SQL, JavaScript, CSS, and HTML
 [Week 0 - Scratch](https://cs50.harvard.edu/x/weeks/0/)
 
 Computer Science. Computational Thinking. Problem Solving: Inputs, Outputs. Representation: Unary, Binary, Decimal, ASCII, Unicode, RGB. Abstraction. Algorithms. Running Times. Pseudocode. Scratch: Functions, Arguments, Return Values; Variables; Boolean Expressions, Conditionals; Loops; Events; Threads.
- * [Scratch Problem Set 0](https://cs50.harvard.edu/x/psets/0/)
+ * [Problem Set 0](https://cs50.harvard.edu/x/psets/0/)
 
 [Week 1 - C](https://cs50.harvard.edu/x/weeks/1/)
 
 C. Source Code. Machine Code. Compiler. Correctness, Design, Style. Visual Studio Code. Syntax Highlighting. Escape Sequences. Header Files. Libraries. Manual Pages. Types. Conditionals. Variables. Loops. Linux. Graphical User Interface (GUI). Command-Line Interface (CLI). Constants. Comments. Pseudocode. Operators. Integer Overflow. Floating-Point Imprecision.
- * [Pending](https://)
+ * [Problem Set 1](https://cs50.harvard.edu/x/psets/1/)
+   * [hello.c](https://github.com/bfugere/CS50x/blob/main/Week%201%20-%20C/hello.c)
+   * [mario.c](https://github.com/bfugere/CS50x/blob/main/Week%201%20-%20C/mario.c)
+   * [cash.c](https://github.com/bfugere/CS50x/blob/main/Week%201%20-%20C/cash.c)
 
 #### [Final Project](https://cs50.harvard.edu/x/project/) - [MyFinalProjectName](GithubLink)
 
