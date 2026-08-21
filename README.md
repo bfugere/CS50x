@@ -40,6 +40,8 @@ C, Python, SQL, JavaScript, CSS, and HTML
 Computer Science. Computational Thinking. Problem Solving: Inputs, Outputs. Representation: Unary, Binary, Decimal, ASCII, Unicode, RGB. Abstraction. Algorithms. Running Times. Pseudocode. Scratch: Functions, Arguments, Return Values; Variables; Boolean Expressions, Conditionals; Loops; Events; Threads.
  * [Problem Set 0](https://cs50.harvard.edu/x/psets/0/)
 
+<br>
+
 [Week 1 - C](https://cs50.harvard.edu/x/weeks/1/)
 
 C. Source Code. Machine Code. Compiler. Correctness, Design, Style. Visual Studio Code. Syntax Highlighting. Escape Sequences. Header Files. Libraries. Manual Pages. Types. Conditionals. Variables. Loops. Linux. Graphical User Interface (GUI). Command-Line Interface (CLI). Constants. Comments. Pseudocode. Operators. Integer Overflow. Floating-Point Imprecision.
@@ -47,6 +49,16 @@ C. Source Code. Machine Code. Compiler. Correctness, Design, Style. Visual Studi
    * [hello.c](https://github.com/bfugere/CS50x/blob/main/Week%201%20-%20C/hello.c)
    * [mario.c](https://github.com/bfugere/CS50x/blob/main/Week%201%20-%20C/mario.c)
    * [cash.c](https://github.com/bfugere/CS50x/blob/main/Week%201%20-%20C/cash.c)
+
+<br>
+
+[Week 2 - Arrays](https://cs50.harvard.edu/x/weeks/2/)
+
+Preprocessing. Compiling. Assembling. Linking. Debugging. Arrays. Strings. Command-Line Arguments. Cryptography.
+ * [Problem Set 1](https://cs50.harvard.edu/x/psets/2/)
+   * [scrabble.c](https://github.com/bfugere/CS50x/blob/main/Week%202%20-%20Arrays/scrabble.c)
+
+<br>
 
 #### [Final Project](https://cs50.harvard.edu/x/project/) - [MyFinalProjectName](GithubLink)
 
