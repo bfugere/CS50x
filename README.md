@@ -55,8 +55,9 @@ C. Source Code. Machine Code. Compiler. Correctness, Design, Style. Visual Studi
 [Week 2 - Arrays](https://cs50.harvard.edu/x/weeks/2/)
 
 Preprocessing. Compiling. Assembling. Linking. Debugging. Arrays. Strings. Command-Line Arguments. Cryptography.
- * [Problem Set 1](https://cs50.harvard.edu/x/psets/2/)
+ * [Problem Set 2](https://cs50.harvard.edu/x/psets/2/)
    * [scrabble.c](https://github.com/bfugere/CS50x/blob/main/Week%202%20-%20Arrays/scrabble.c)
+   * [readability.c](https://github.com/bfugere/CS50x/blob/main/Week%202%20-%20Arrays/readability.c)
 
 <br>
 
