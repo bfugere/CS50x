@@ -58,6 +58,7 @@ Preprocessing. Compiling. Assembling. Linking. Debugging. Arrays. Strings. Comma
  * [Problem Set 2](https://cs50.harvard.edu/x/psets/2/)
    * [scrabble.c](https://github.com/bfugere/CS50x/blob/main/Week%202%20-%20Arrays/scrabble.c)
    * [readability.c](https://github.com/bfugere/CS50x/blob/main/Week%202%20-%20Arrays/readability.c)
+   * [ceasar.c](https://github.com/bfugere/CS50x/blob/main/Week%202%20-%20Arrays/caesar.c) (ciphertext)
 
 <br>
 
