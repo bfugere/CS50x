@@ -72,6 +72,62 @@ Searching: Linear Search, Binary Search. Sorting: Bubble Sort, Selection Sort, M
 
 <br>
 
+[Week 4 - Memory](https://cs50.harvard.edu/x/weeks/4/)
+
+Pointers. Segmentation Faults. Dynamic Memory Allocation. Stack. Heap. Buffer Overflow. File I/O. Images.
+ * [Problem Set 4](https://cs50.harvard.edu/x/psets/4/)
+   * [Pending - In Progress...](https://github.com/bfugere/CS50x/tree/main)
+
+<br>
+
+[Week 5 - Data Structures](https://cs50.harvard.edu/x/weeks/5/)
+
+Abstract Data Types. Queues, Stacks. Linked Lists. Trees, Binary Search Trees. Hash Tables. Tries.
+ * [Problem Set 5](https://cs50.harvard.edu/x/psets/5/)
+   * [Pending - In Progress...](https://github.com/bfugere/CS50x/tree/main)
+
+<br>
+
+[Week 6 - Python](https://cs50.harvard.edu/x/weeks/6/)
+
+Python: Functions, Arguments, Return Values; Variables; Boolean Expressions, Conditionals; Loops. Modules, Packages.
+ * [Problem Set 6](https://cs50.harvard.edu/x/psets/6/)
+   * [Pending - In Progress...](https://github.com/bfugere/CS50x/tree/main)
+
+<br>
+
+[Week 7 - SQL](https://cs50.harvard.edu/x/weeks/7/)
+
+SQL: Tables; Types; Statements; Constraints; Indexes; Keywords, Functions; Transactions. Race Conditions. SQL Injection Attacks.
+ * [Problem Set 7](https://cs50.harvard.edu/x/psets/7/)
+   * [Pending - In Progress...](https://github.com/bfugere/CS50x/tree/main)
+
+<br>
+
+[Week 8 - HTML, CSS, JavaScript](https://cs50.harvard.edu/x/weeks/8/)
+
+Internet: Routers; TCP/IP; DNS. HTTP: URLs, GET, POST. HTML: Tags; Attributes. Servers. Regular Expressions. CSS: Properties; Selectors. Frameworks. JavaScript: Variables; Conditionals; Loops. Events.
+ * [Problem Set 8](https://cs50.harvard.edu/x/psets/8/)
+   * [Pending - In Progress...](https://github.com/bfugere/CS50x/tree/main)
+
+<br>
+
+[Week 9 - Flask](https://cs50.harvard.edu/x/weeks/9/)
+
+Flask. Route. Decorators. Requests, Responses. Sessions. Cookies.
+ * [Problem Set 9](https://cs50.harvard.edu/x/psets/9/)
+   * [Pending - In Progress...](https://github.com/bfugere/CS50x/tree/main)
+
+<br>
+
+[Week 10 - The End](https://cs50.harvard.edu/x/weeks/10/)
+
+Fun. Games.
+ * [Problem Set 10](https://cs50.harvard.edu/x/psets/10/)
+   * [Pending - In Progress...](https://github.com/bfugere/CS50x/tree/main)
+
+<br>
+
 #### [Final Project](https://cs50.harvard.edu/x/project/) - [MyFinalProjectName](GithubLink)
 
 ## Useful Resources
