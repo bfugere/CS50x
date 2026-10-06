@@ -62,6 +62,14 @@ Preprocessing. Compiling. Assembling. Linking. Debugging. Arrays. Strings. Comma
 
 <br>
 
+[Week 3 - Algorithms](https://cs50.harvard.edu/x/weeks/3/)
+
+Searching: Linear Search, Binary Search. Sorting: Bubble Sort, Selection Sort, Merge Sort. Asymptotic Notation: 𝑂, Ω, Θ. Recursion.
+ * [Problem Set 3](https://cs50.harvard.edu/x/psets/3/)
+   * [sort.c](https://github.com/bfugere/CS50x/blob/main/Week%203%20-%20Algorithms/sort.txt)
+
+<br>
+
 #### [Final Project](https://cs50.harvard.edu/x/project/) - [MyFinalProjectName](GithubLink)
 
 ## Useful Resources
