@@ -68,6 +68,7 @@ Searching: Linear Search, Binary Search. Sorting: Bubble Sort, Selection Sort, M
  * [Problem Set 3](https://cs50.harvard.edu/x/psets/3/)
    * [sort.c](https://github.com/bfugere/CS50x/blob/main/Week%203%20-%20Algorithms/sort.txt)
    * [plurality.c](https://github.com/bfugere/CS50x/blob/main/Week%203%20-%20Algorithms/plurality.c)
+   * [runoff.c](https://github.com/bfugere/CS50x/blob/main/Week%203%20-%20Algorithms/runoff.c)
 
 <br>
 
