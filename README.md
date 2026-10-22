@@ -77,7 +77,7 @@ Searching: Linear Search, Binary Search. Sorting: Bubble Sort, Selection Sort, M
 Pointers. Segmentation Faults. Dynamic Memory Allocation. Stack. Heap. Buffer Overflow. File I/O. Images.
  * [Problem Set 4](https://cs50.harvard.edu/x/psets/4/)
    * [volume.c](https://github.com/bfugere/CS50x/blob/main/Week%204%20-%20Memory/volume.c)
-   * [Pending - In Progress...](https://github.com/bfugere/CS50x/tree/main)
+   * [filter.c](https://github.com/bfugere/CS50x/blob/main/Week%204%20-%20Memory/filter.c)
    * [Pending - In Progress...](https://github.com/bfugere/CS50x/tree/main)
 
 <br>
