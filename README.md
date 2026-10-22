@@ -78,7 +78,7 @@ Pointers. Segmentation Faults. Dynamic Memory Allocation. Stack. Heap. Buffer Ov
  * [Problem Set 4](https://cs50.harvard.edu/x/psets/4/)
    * [volume.c](https://github.com/bfugere/CS50x/blob/main/Week%204%20-%20Memory/volume.c)
    * [filter.c](https://github.com/bfugere/CS50x/blob/main/Week%204%20-%20Memory/filter.c)
-   * [Pending - In Progress...](https://github.com/bfugere/CS50x/tree/main)
+   * [recover.c](https://github.com/bfugere/CS50x/blob/main/Week%204%20-%20Memory/recover.c)
 
 <br>
 
